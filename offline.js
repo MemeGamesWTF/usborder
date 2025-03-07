@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1741348901,
+	"version": 1741350536,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -25,6 +25,7 @@
 		"images/sidefan-sheet0.png",
 		"images/sprite2sheet-sheet0.png",
 		"images/informationbutton-sheet0.png",
+		"images/sprite2-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
 		"media/puch 1.m4a",
@@ -43,8 +44,10 @@
 		"media/trump1.ogg",
 		"media/trump3.m4a",
 		"media/trump3.ogg",
-		"media/bg (1).m4a",
-		"media/bg (1).ogg",
+		"media/wilhelm scream.m4a",
+		"media/wilhelm scream.ogg",
+		"media/us border bgm.m4a",
+		"media/us border bgm.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
