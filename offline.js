@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1741344548,
+	"version": 1741348901,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -35,6 +35,16 @@
 		"media/puch 3.ogg",
 		"media/puch 4.m4a",
 		"media/puch 4.ogg",
+		"media/game over trump.m4a",
+		"media/game over trump.ogg",
+		"media/trump2.m4a",
+		"media/trump2.ogg",
+		"media/trump1.m4a",
+		"media/trump1.ogg",
+		"media/trump3.m4a",
+		"media/trump3.ogg",
+		"media/bg (1).m4a",
+		"media/bg (1).ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
