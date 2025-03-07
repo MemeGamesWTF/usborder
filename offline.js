@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1741340979,
+	"version": 1741341601,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -26,6 +26,14 @@
 		"images/sprite2sheet-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
+		"media/puch 1.m4a",
+		"media/puch 1.ogg",
+		"media/puch 2.m4a",
+		"media/puch 2.ogg",
+		"media/puch 3.m4a",
+		"media/puch 3.ogg",
+		"media/puch 4.m4a",
+		"media/puch 4.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
