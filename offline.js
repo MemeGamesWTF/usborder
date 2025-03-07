@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1741350864,
+	"version": 1741351365,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -25,7 +25,8 @@
 		"images/sidefan-sheet0.png",
 		"images/sprite2sheet-sheet0.png",
 		"images/informationbutton-sheet0.png",
-		"images/sprite2-sheet0.png",
+		"images/woman1-sheet0.png",
+		"images/woman2-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
 		"media/puch 1.m4a",
